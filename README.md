@@ -1,2 +1,2 @@
 # Software-Testing
-Project on Software Testing and Quality Assurancec
+Project on Software Testing and Quality Assurance
